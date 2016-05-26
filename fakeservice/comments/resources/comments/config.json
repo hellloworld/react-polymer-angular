@@ -16,6 +16,14 @@
 			"required": true,
 			"id": "msg",
 			"order": 1
+		},
+		"postedDate": {
+			"name": "postedDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "postedDate",
+			"order": 2
 		}
 	}
 }
